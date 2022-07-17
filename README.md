@@ -2,7 +2,7 @@
 
 Good day everyone. My name is Jang. I'm currently a Grade 12 high school student from Thailand. I write codes during my free time and when I felt motivated. Nice to meet you all and hope you all have a good day.
 
->![spoiler test](https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwMv8v8v1Sd4F40QFfhzxUkM)<br>
+![Yay](https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwMv8v8v1Sd4F40QFfhzxUkM)<br>
 
 
 [Contact Me](https://youtu.be/oavMtUWDBTM)
