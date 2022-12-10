@@ -6,7 +6,7 @@ Good day everyone. My name is Jang. I'm currently a Grade 12 high school student
 [Contact Me](https://youtu.be/oavMtUWDBTM)
 
 
-![lol](https://i.imgur.com/G1hhSDW.png)<br>
+<!-- ![lol](https://i.imgur.com/G1hhSDW.png)<br> -->
 
 [No I seriously mean to contact you](https://youtu.be/dQw4w9WgXcQ)
 >Seriously, click the E-mail link to the left of your screen.
