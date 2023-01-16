@@ -2,11 +2,4 @@
 
 Good day everyone. My name is Jang. I'm currently a Grade 12 high school student from Thailand. I write codes during my free time and when I felt motivated. Nice to meet you all and hope you all have a good day.
 
-
-[Contact Me](https://youtu.be/oavMtUWDBTM)
-
-
-<!-- ![lol](https://i.imgur.com/G1hhSDW.png)<br> -->
-
-[No I seriously mean to contact you](https://youtu.be/dQw4w9WgXcQ)
->Seriously, click the E-mail link to the left of your screen.
+![kita](https://i.redd.it/bp54598qg4ca1.gif)
