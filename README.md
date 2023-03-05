@@ -24,6 +24,6 @@ Hello everyone, and welcome to my GitHub userpage. I'm a high school graduate, s
     <img src = "https://static.wikia.nocookie.net/logopedia/images/c/c4/Notepad_Vista_10.png/revision/latest?cb=20181031102045" height = "45">
     <img src ='https://www.computerhope.com/jargon/p/paint-logo.png' height=45>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" height = '45'>
-    <img src = 'https://upload.wikimedia.org/wikipedia/commons/1/16/Firefox_logo%2C_2017.png' height = '45'><br>
+    <img src = 'https://upload.wikimedia.org/wikipedia/commons/1/16/Firefox_logo%2C_2017.png' height = '45'>
     <img src = "https://skillicons.dev/icons?i=github,vscode,linux,ps,ai">    
 </p>
