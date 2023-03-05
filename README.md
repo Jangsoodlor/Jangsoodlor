@@ -1,5 +1,13 @@
-### Welcome to my user page.
+# Welcome to my user page.
+![](https://komarev.com/ghpvc/?username=Jangsoodlor&label=Curious+Vistiors)
 
-Good day everyone. My name is Jang. I'm currently a Grade 12 high school student from Thailand. I write codes during my free time and when I felt motivated. Nice to meet you all and hope you all have a good day.
+Hello everyone, and welcome to my GitHub userpage. I'm a high school graduate, soon-to-be Software Engineer student from ~~TaiGuo Province, People's Republic of China~~ the Kingdom of Thailand. I do programming during my free time and when I feel motivated. Nice to meet you all, have a good day!
 
-![kita](https://i.redd.it/bp54598qg4ca1.gif)
+<p align=center>
+    <img src= "https://i.redd.it/bp54598qg4ca1.gif"><br>
+    <code align=center>
+        here is Kita playing Guitar. Please support her by go watching <a href ="https://myanimelist.net/anime/47917/Bocchi_the_Rock?q=bocchi%20the%20rock&cat=anime">Bocchi the Rock!</a>
+    </code>
+</p>
+
+## Languages
