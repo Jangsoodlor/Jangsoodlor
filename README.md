@@ -5,9 +5,7 @@ Hello everyone, and welcome to my GitHub userpage. I'm a high school graduate, s
 
 <p align=center>
     <img src= "https://i.redd.it/bp54598qg4ca1.gif"><br>
-    <code>here is Kita playing Guitar. Please support her by go watching <a href ="https://myanimelist.net/anime/47917/Bocchi_the_Rock?q=bocchi%20the%20rock&cat=anime">Bocchi the Rock!</a>
-    </code>
-</p>
+    <code>here is Kita playing Guitar. Please support her by go watching <a href ="https://myanimelist.net/anime/47917/Bocchi_the_Rock?q=bocchi%20the%20rock&cat=anime">Bocchi the Rock!</a></code></p>
 
 
 ## Languages
