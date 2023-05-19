@@ -1,11 +1,11 @@
 # Welcome to my user page.
 ![](https://komarev.com/ghpvc/?username=Jangsoodlor&label=Curious+Vistiors)
 
-Hello everyone, and welcome to my GitHub userpage. I'm a high school graduate, soon-to-be Software and Knowledge Engineer student from ~~TaiGuo Province, People's Republic of China~~ the Kingdom of Thailand. I do programming during my free time and when I feel motivated. Nice to meet you all, have a good day!
+Hello everyone, and welcome to my GitHub userpage. I'm a high school graduate, soon-to-be Software Engineer student from Thailand. I do programming during my free time and when I feel motivated. Nice to meet you all, have a good day!
 
 <p align=center>
     <img src= "https://i.redd.it/bp54598qg4ca1.gif"><br>
-    <code>Here is Kita playing Guitar. Please support her by go watching <a href ="https://myanimelist.net/anime/47917/Bocchi_the_Rock?q=bocchi%20the%20rock&cat=anime">Bocchi the Rock!</a></code>
+    <code>Pls watch <a href ="https://myanimelist.net/anime/47917/Bocchi_the_Rock?q=bocchi%20the%20rock&cat=anime">Bocchi the Rock!</a></code>
 </p>
 <br>
 
@@ -25,5 +25,5 @@ Hello everyone, and welcome to my GitHub userpage. I'm a high school graduate, s
     <img src ='https://www.computerhope.com/jargon/p/paint-logo.png' height=45>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" height = '45'>
     <img src = 'https://upload.wikimedia.org/wikipedia/commons/1/16/Firefox_logo%2C_2017.png' height = '45'>
-    <img src = "https://skillicons.dev/icons?i=github,vscode,linux,ps,ai">    
+    <img src = "https://skillicons.dev/icons?i=github,vscode,linux,ps,ai"> 
 </p>
