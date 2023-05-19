@@ -9,7 +9,7 @@ Hello everyone, and welcome to my GitHub userpage. I'm a high school graduate, s
 </p>
 <br>
 
-<h2 align="center">Languages</h2>
+<!-- <h2 align="center">Languages</h2>
 <p align="center">
     <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/1200px-Flag_of_Thailand.svg.png" height = "45">
     <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/1920px-Flag_of_the_United_Kingdom_%281-2%29.svg.png" height = "45">
@@ -27,3 +27,4 @@ Hello everyone, and welcome to my GitHub userpage. I'm a high school graduate, s
     <img src = 'https://upload.wikimedia.org/wikipedia/commons/1/16/Firefox_logo%2C_2017.png' height = '45'>
     <img src = "https://skillicons.dev/icons?i=github,vscode,linux,ps,ai"> 
 </p>
+ -->
