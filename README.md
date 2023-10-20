@@ -1,7 +1,7 @@
 # Welcome to my user page.
 ![](https://komarev.com/ghpvc/?username=Jangsoodlor&label=Curious+Vistiors)
 
-Hello there. I'm a Software Engineering student at ![Kasetsart University](https://www.ku.ac.th/th). Nice to meet you and please have a nice day!
+Hello there. I'm a Software Engineering student at [Kasetsart University](https://www.ku.ac.th/th). Nice to meet you and please have a nice day!
 
 
 
