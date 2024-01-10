@@ -1,14 +1,13 @@
 # Welcome to my user page.
-![](https://komarev.com/ghpvc/?username=Jangsoodlor&label=Curious+Vistiors)
+![](https://komarev.com/ghpvc/?username=Jangsoodlor&color=orange)
 
-Hello there. I'm a Software & Knownledge Engineering student at [Kasetsart University](https://www.ku.ac.th/th). Nice to meet you and please have a nice day!
+Hello there. I'm a 1st year Software & Knowledge Engineering student at [Kasetsart University](https://www.ku.ac.th/th). Nice to meet you and please have a nice day!
 
-![](https://steamuserimages-a.akamaihd.net/ugc/2029473162814419636/135C8C84A90B7D7894D3B7E2946737CDA26D15EF/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
+![Koyuki](https://steamuserimages-a.akamaihd.net/ugc/2029473162814419636/135C8C84A90B7D7894D3B7E2946737CDA26D15EF/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
 
-`You should go touch some grass!`
-<h2>Languages (?)</h2>
-<p>
-    <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/1200px-Flag_of_Thailand.svg.png" height = "45">
-    <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/1920px-Flag_of_the_United_Kingdom_%281-2%29.svg.png" height = "45">
-    <img src = "https://skillicons.dev/icons?i=python,md,html,css">
-</p>
+> Programming can be exhausting sometimes. If you stuck, then go outside and breathe some fresh air - Sun Tzu (probably)
+
+![](https://skillicons.dev/icons?i=python,html,css,git,powershell,vscode,vim,md,ps)
+
+## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jangsoodlor&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
