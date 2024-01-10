@@ -7,7 +7,9 @@
 
 ![](https://skillicons.dev/icons?i=python,html,css,git,powershell,vscode,vim,md,ps)
 
-## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jangsoodlor&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
 
-[![https://github.com/DenverCoder1/github-readme-streak-stats ](https://streak-stats.demolab.com?user=Jangsoodlor&theme=yeblu&hide_border=true)](https://git.io/streak-stats)
+<details>
+<summary><font size = 4><b>Stats</b></font></summary><br>
+<a href = "https://github.com/anuraghazra/github-readme-stats"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jangsoodlor&theme=yeblu"></a>
+<a href = "https://github.com/DenverCoder1/github-readme-streak-stats"><img src = "https://streak-stats.demolab.com?user=Jangsoodlor&theme=yeblu&hide_border=true"></a>
+</details>
