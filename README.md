@@ -1,11 +1,11 @@
 # Welcome to my user page.
 ![](https://komarev.com/ghpvc/?username=Jangsoodlor&color=ffba42)
 
-![Koyuki](https://steamuserimages-a.akamaihd.net/ugc/2029473162814419636/135C8C84A90B7D7894D3B7E2946737CDA26D15EF/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
+![HinaUWOH](https://img3.gelbooru.com//images/b0/b9/b0b9c3f3eeee98eaf018961ca2282035.jpg)
 
 > Programming can be exhausting sometimes. If you stuck, then go outside and breathe some fresh air - Sun Tzu (probably)
 
-![](https://skillicons.dev/icons?i=python,html,css,git,powershell,vscode,vim,md,ps)
+![](https://skillicons.dev/icons?i=python,cpp,html,css,md,vscode,ps)
 
 
 <details>
