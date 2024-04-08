@@ -1,8 +1,15 @@
-![HinaUWOH](e.m.t.jpg)
+# Hi there! 👋<br>![](https://komarev.com/ghpvc/?username=Jangsoodlor&color=ffba42)
+I'm currently a Software Engineering student at Kasetsart University, Thailand. Welcome to my GitHub profile! 🚀
 
 ![](https://skillicons.dev/icons?i=python,cpp,html,css,md,vscode,ps)
 
-![](https://komarev.com/ghpvc/?username=Jangsoodlor&color=ffba42)
+
+## Certification
+- Intermediate level Microsoft Word Certificate by Thai Department of Skill Development, Ministry of Labour.
+- Basic Cybersecurity Certificate by Thai Department of Skill Development, Ministry of Labour.
+- HTML Course Certificate by Sololearn
+
+![emt](e.m.t.jpg)
 
 <details>
 <summary><font size = 4><b>Stats</b></font></summary><br>
