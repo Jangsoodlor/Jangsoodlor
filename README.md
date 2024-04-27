@@ -19,7 +19,4 @@ I'm currently a Software Engineering student at Kasetsart University, Thailand. 
     <li>HTML Course Certificate by Sololearn</li>
   </ul>
 </details>
-
-![emt](e.m.t.jpg)
-
 <!-- ![](https://skillicons.dev/icons?i=python,cpp,html,css,md,vscode,ps) -->
