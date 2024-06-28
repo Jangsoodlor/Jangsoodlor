@@ -1,6 +1,5 @@
 # Hi there! 👋<br>![](https://komarev.com/ghpvc/?username=Jangsoodlor&color=ffba42)
-I'm currently a Software Engineering student at Kasetsart University, Thailand. Welcome to my GitHub profile! 🚀
-
+![mikoto](https://media1.tenor.com/m/bvRWHUHojesAAAAd/mikoto-misaka-eating.gif)
 <details>
 <summary>
   <font size = 4><b>Stats</b></font>
